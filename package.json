@@ -19,6 +19,7 @@
   "homepage": "https://github.com/maratdaudov/hexlet-js#readme",
   "devDependencies": {
     "jest": "^27.0.6",
-    "lodash": "^4.17.21"
+    "lodash": "^4.17.21",
+    "prettier": "^2.3.2"
   }
 }
